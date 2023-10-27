@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43317aa1-1ea0-431c-ab7b-da12bb9951e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sem3/num1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem3/num2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem3/num3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem3/num4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem3/num5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -37,6 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MaksS/Desktop/ТИП3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -45,6 +51,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Node.js.num5.js">
+    <configuration name="num4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sem3/num4.js" working-dir="$PROJECT_DIR$/sem3">
+      <method v="2" />
+    </configuration>
+    <configuration name="num5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sem3/num5.js" working-dir="$PROJECT_DIR$/sem3">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.num5.js" />
+        <item itemvalue="Node.js.num4.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,10 +77,25 @@
       <workItem from="1697639573093" duration="7000" />
       <workItem from="1697824870752" duration="3563000" />
       <workItem from="1697880150550" duration="4164000" />
+      <workItem from="1697888966719" duration="26000" />
+      <workItem from="1698433021518" duration="217000" />
+      <workItem from="1698433257692" duration="3443000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/sem3/num5.js</url>
+          <line>23</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
