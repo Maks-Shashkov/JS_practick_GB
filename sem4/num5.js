@@ -17,16 +17,16 @@
 // 2. Дан массив: `[1, 2, 3, 2, 4, 3, 5, 6, 3, 2, 3]`. Подсчитайте количество
 // цифр 3 в этом массиве.
 
-const arr = [1, 2, 3, 2, 4, 3, 5, 6, 3, 2, 3];
-let count = 0;
-
-console.log(arr.reduce((acc , num) => {
-    if(num === 3){
-        return acc + 1
-    }
-    return acc
-}, 0
-))
+// const arr = [1, 2, 3, 2, 4, 3, 5, 6, 3, 2, 3];
+// let count = 0;
+//
+// console.log(arr.reduce((acc , num) => {
+//     if(num === 3){
+//         return acc + 1
+//     }
+//     return acc
+// }, 0
+// ))
 //
 // for (const number of arr) {
 //     if (number === 3)
